@@ -86,12 +86,13 @@ export const LyricsWrap = styled.div`
                 margin-top: 40px;
                 display: flex;
                 flex-direction: column;
-                gap: 4px;
+                gap: 16px;
                 .lyricLine {
                     display: flex;
                     flex-direction: column;
-                    justify-content: space-between;
                     padding: 4px;
+                    gap: 4px;
+                    font-size: 20px;
 
                     
                     p{

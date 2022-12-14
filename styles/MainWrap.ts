@@ -112,7 +112,7 @@ background: linear-gradient(0deg, rgba(26,26,26,1) 0%, rgba(71,70,70,1) 100%); *
 
 
 .nav {
-    z-index: 1;
+    z-index: 2;
 }
 
 .mainBody {
@@ -187,7 +187,6 @@ background: linear-gradient(0deg, rgba(26,26,26,1) 0%, rgba(71,70,70,1) 100%); *
         flex-wrap: wrap;
         flex-direction: row;
         justify-content: space-between;
-        z-index: 2;
         margin-bottom: 140px;
         
      
