@@ -135,7 +135,7 @@ background: linear-gradient(0deg, rgba(26,26,26,1) 0%, rgba(71,70,70,1) 100%); *
         .mainPic {
             
             position: relative;
-            width: 360px;
+            width: 340px;
             height: 420px;
         }
     }
