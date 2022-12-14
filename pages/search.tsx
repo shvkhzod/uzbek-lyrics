@@ -29,6 +29,7 @@ const Search = () => {
             <SongShow songName="Stan" songArtist="Eminem" songImg="/img/em.png"/>
             </Link>
             <SongShow songName="Desert Rose" songArtist="Sting" songImg="/img/sting.png"/>
+            <SongShow songName="Perfect" songArtist="Ed Sheeran" songImg="/img/ed2.png"/>
             <SongShow songName="Blinding Lights" songArtist="The Weeknd" songImg="/img/bl.png"/>
             <SongShow songName="In The End" songArtist="Linkin Park" songImg="/img/linkinpark.png"/>
             <SongShow songName="Just Like You" songArtist="NF" songImg="/img/likeyou.png"/>

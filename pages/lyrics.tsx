@@ -14,9 +14,9 @@ const Lyrics = () => {
             <h2 className="translateHeader">Stan - Eminem ft Dido</h2>
                 <div className="lyricTranslation">
                 {StanEng.map((e, index) => 
-                    <div className="lyricLine">
-                        <p>{e}</p>
-                        <p>{StanUz[index]}</p>
+                    <div className="lyricLine" key={index}>
+                        <p key={index}>{e}</p>
+                        <p className="uzbTranslation">{StanUz[index]}</p>
                     </div>
                 )}
                 </div>

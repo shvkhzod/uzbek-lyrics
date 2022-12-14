@@ -93,6 +93,98 @@ export const NavWrap = styled.div`
             }
         }
         }
+
+        @media only screen and (max-width: 600px) {
+        position: fixed;
+        width: 100%;
+        height: 10vh;
+        bottom: 0;
+        background-color: #111111;
+        display: flex;
+        flex-direction: column;
+        padding: 0px 40px;
+
+        .logo {
+            display: none;
+            font-size: 24px;
+            margin-top: 40px;
+            font-weight: 500;
+            color: ${primaryColor};
+
+            span {
+                font-weight: 700;
+            }
+        }
+
+        .menuLabel {
+            display: none;
+            margin-top: 84px;
+            color: white;
+            opacity: 0.55;
+        }
+
+        .nav-items {
+            margin-top: 16px;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            .ac {
+                display: none;
+                left: 0;
+                position: absolute;
+                width: 4px;
+                height: 32px;
+                background-color: ${primaryColor};
+                transform: translateY(0px);
+                transition: 1.800;
+            } 
+
+            .acSearch {
+                display: none;
+                margin-top:-4px;
+                left: 0;
+                position: absolute;
+                width: 4px;
+                height: 32px;
+                background-color: ${primaryColor};
+                transform: translateY(40px);
+                transition: 1.800;
+            } 
+            .item {
+               
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+           
+
+            .itemImgContainer {
+                
+                .itemImg {
+                    position: relative;
+                    width: 36px;
+                    height: 36px;
+     
+}
+                    
+                  
+                    
+
+                }
+            }
+
+            .itemLabel {
+                display: none;
+                font-size: 20px;
+                color: white
+            }
+
+            .itemLabelActive {
+                display: none;
+                font-size: 20px;
+                color: ${primaryColor}
+            }
+        }
+        }
     
 
 `
