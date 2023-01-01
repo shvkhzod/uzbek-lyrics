@@ -4,8 +4,10 @@ import { SearchWrap } from "../styles/SearchWrap"
 import SearchIc from "../public/img/search.svg"
 import SongShow from "../components/SongShow"
 import Link from "next/link"
+import { useRouter } from "next/router"
 
 const Search = () => {
+    const router = useRouter()
     return (
         <SearchWrap>
            <div className="nav">
