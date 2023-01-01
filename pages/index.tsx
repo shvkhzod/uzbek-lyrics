@@ -28,7 +28,7 @@ export default function Home() {
             <p className='mainSub'>Endi biz bilan chet el musiqasini
             aniq tushinishingiz mumkin</p>
 
-            <button className='searchBtn'>Izlash</button>
+            <button className='searchBtn' onClick={()=> router.push("/search")}>Izlash</button>
           </div>
 
           <div className="mainPicContainer">
