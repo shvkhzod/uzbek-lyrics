@@ -97,7 +97,7 @@ export const NavWrap = styled.div`
         @media only screen and (max-width: 600px) {
         position: fixed;
         width: 100%;
-        height: 10vh;
+        height: 8vh;
         bottom: 0;
         background-color: #111111;
         display: flex;

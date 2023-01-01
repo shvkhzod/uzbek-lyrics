@@ -28,6 +28,13 @@ export const LyricsWrap = styled.div`
                 text-align: center;
                 color: white
             }
+
+            .uzHeader {
+                text-align: center;
+                color: white;
+                opacity: 0.7;
+                font-size: 20px;
+            }
             .lyricTranslation {
                 margin-top: 40px;
                 display: flex;
@@ -82,6 +89,17 @@ export const LyricsWrap = styled.div`
                 text-align: center;
                 color: white
             }
+
+            .uzHeader {
+                text-align: center;
+                color: white;
+                opacity: 0.7;
+                font-size: 20px;
+            }
+
+           
+        
+   
             .lyricTranslation {
                 margin-top: 40px;
                 display: flex;
@@ -120,7 +138,11 @@ export const LyricsWrap = styled.div`
 
 
             }
+
+            
         }
+
+        
     }
 
 `

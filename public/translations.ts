@@ -1,3 +1,21 @@
+export const StanNameUzb = "Stan"
+export const StanNameEng = "Stan"
+
+export const EarthSongNameUzb = "Yer qoshiqi"
+export const EarthSongNameEng = "Earth Song"
+
+export const OnlyWomanNameUzb = "Faqat Bitta Ayol"
+export const OnlyWomanNameEng = "Only A Woman"
+
+export const ComingHomeNameUzb = "Uyga Qaytmoqdaman"
+export const ComingHomeNameEng = "Coming Home"
+
+export const BillieNameUzb = "Billi Jin"
+export const BillieNameEng = "Billie Jean"
+
+export const EscapeNameUzb = "Qochish"
+export const EscapeNameEng = "Escape"
+
 export const StanEng = 
 `My tea's gone cold, I'm wondering why I got out of bed at all //
 The morning rain clouds up my window and I can't see at all//
@@ -247,4 +265,585 @@ Bir o’ylab ko’r, uning ismi… bu axir – sen! JIN URSIN…
 
 
 
+`.split("//")
+
+
+export const EarthSongEng = `
+What about sunrise?//
+What about rain?//
+What about all the things//
+That you said we were to gain?..//
+What about killing fields?//
+Is there a time?//
+What about all the things//
+That you said was yours and mine?..//
+Did you ever stop to notice all the blood we've shed before?//
+Did you ever stop to notice the crying Earth the weeping shores?//
+Aaaaaaaaaah Oooooooooh//
+Aaaaaaaaaah Oooooooooh//
+What have we done to the world?//
+Look what we've done!//
+What about all the peace//
+That you pledge your only son?..//
+What about flowering fields?//
+Is there a time?//
+What about all the dreams//
+That you said was yours and mine?..//
+Did you ever stop to notice all the children dead from war?//
+Did you ever stop to notice the crying Earth the weeping shores?//  
+Aaaaaaaaaah Oooooooooh//
+Aaaaaaaaaah Oooooooooh//
+I used to dream,//
+I used to glance beyond the stars!//
+Now I don't know where we are,//
+Although I know we've drifted far//
+Aaaaaaaaaah Oooooooooh//
+Aaaaaaaaaah Oooooooooh//
+Aaaaaaaaaah Oooooooooh//
+Aaaaaaaaaah Oooooooooh//
+Hey, what about yesterday?//
+(What about us?)//
+What about the seas?//
+(What about us?)//
+The heavens are falling down// 
+(What about us?)//
+I can't even breathe!//
+(What about us?)//
+What about the bleeding Earth?//
+(What about us?)//
+Can't we feel its wounds?//
+(What about us?)//
+What about nature's worth?//
+(ooo,ooo)//
+It's our planet's womb// 
+(What about us?)//
+What about animals?//
+(What about it?)//
+We've turned kingdoms to dust// 
+(What about us?)//
+What about elephants?//
+(What about us?)//
+Have we lost their trust?//
+(What about us?)//
+What about crying whales?//
+(What about us?)//
+We're ravaging the seas?//
+(What about us?)//
+What about forest trails// 
+(ooo, ooo)//
+Burnt despite our pleas?//
+(What about us?)//
+What about the holy land// 
+(What about it?)//
+Torn apart by creed?//
+(What about us?)//
+What about the common man?//
+(What about us?)//
+Can't we set him free?//
+(What about us?)//
+What about children dying?//
+(What about us?)//
+Can't you hear them cry?//
+(What about us?)//
+Where did we go wrong?//
+(ooo, ooo)//
+Someone tell me why!//
+(What about us?)//
+What about babies?//
+(What about it?)//
+What about the days?//
+(What about us?)//
+What about all their joy?//
+(What about us?)//
+What about the man?//
+(What about us?)//
+What about the crying man?//
+(What about us?)//
+What about Abraham?//
+(What was us?)//
+What about death again?//
+(ooo, ooo)//
+Do we give a damn?!//`.split("//") 
+
+export const EarthSongUzb = `
+Quyosh chiqishichi?//
+Yomg’irchi?//
+Sen biz to’plashimiz kerak, deb//
+aytgan narsalarchi?..//
+Nobud bo’layotgan narsalarchi?//
+Endi bizda vaqt bormi?//
+Sen bizniki, deb//
+aytgan narsalarchi?..//
+Sen hech shu paytgacha to’kkan qonimizni ko’rish uchun to’xtaganmisan?//
+Sen hech Yerning qirg’oqqa ko’z yosh to’kayotganini ko’rish uchun to’xtaganmisan?//
+Aaaaaaa, Uuuuuuu//
+Aaaaaaa, Uuuuuuu//
+Biz bu dunyoga nima qilib qo’ydik?//
+Qara, nima qilib qo’ydik!//
+Sen yakka-yu yolg’iz o’g’ling uchun//
+va’da bergan tinchlikchi?//
+Gullayotgan dalalarchi?//
+Endi bizda vaqt bormi?//
+Sen bizniki, deb//
+aytgan orzularchi?//
+Sen hech urush tufayli halok bo’layotgan bolalarni ko’rish uchun to’xtaganmisan?//
+Sen hech Yerning qirg’oqqa ko’z yosh to’kayotganini ko’rish uchun to’xtaganmisan//
+Aaaaaaa, Uuuuuuu//
+Aaaaaaa, Uuuuuuu//
+Men ilgari orzu qilardim,//
+Men ilgari yulduzlar tomon boqardim!//
+Hozir esa, qayerda ekanligimizni bilmayman,//
+Xatto, ancha uzoqlashib ketganimizni bilsam ham//
+Aaaaaaa, Uuuuuuu//
+Aaaaaaa, Uuuuuuu//
+Aaaaaaa, Uuuuuuu//
+Aaaaaaa, Uuuuuuu//
+Hey, kechagi kunchi?//
+(Bizchi?)//
+Dengizlarchi?//
+(Bizchi?)//
+Osmon qulab tushmoqda//
+(Bizchi?)//
+Men xatto, nafas ham ololmayapman!//
+(Bizchi?)//
+Qon to’kayotgan Yerchi?//
+(Bizchi?)//
+Uning jarohatlarini sezmayapmizmi?//
+(Bizchi?)//
+Tabiatning qadrichi?//
+(Uuuuu)//
+Bu axir bizning sayyoramiz bachadoni-ku!//
+(Bizchi?)//
+Bu hayvonlarchi?//
+(Buchi?)//
+Biz qirolliklarni changlikka aylantirib yubordik!//
+(Bizchi?)//
+Fillarchi?//
+(Bizchi?)//
+Ularning ishonchini yo’qotdikmi?//
+(Bizchi?)//
+Yig’layotgan kitlarchi?//
+(Bizchi?)//
+Biz dengizlarni ifloslayapmiz!//
+(Bizchi?)//
+Bizning istagimizga qaramasdan yoqib yuborilgan//
+(Uuuuu)//
+O’rmon so’qmoqlarichi?//
+(Bizchi?)//
+Bizning e’tiqodimiz tufayli yulib tashlangan//
+(Buchi?)//
+Diniy joylarchi?//
+(Bizchi?)//
+Mana bu oddiy odamchi?//
+(Bizchi?)//
+Biz uni ozod qilolmaymizmi?//
+(Bizchi?)//
+Halok bo’layotgan bolalarchi?//
+(Bizchi?)//
+Ularning yig’isini eshitmayapsanmi?//
+(Bizchi?)//
+Biz qayerda yanglishdik?//
+(Uuuuu)//
+Nima uchun, ayting menga!//
+(Bizchi?)//
+Chaqaloqlarchi?//
+(Buchi?)//
+O’sha kunlarchi?//
+(Bizchi?)//
+Ularning quvonchlarichi?//
+(Bizchi?)//
+Mana bu odamchi?//
+(Bizchi?)//
+Mana bu yig’layotgan odamchi?//
+(Bizchi?)//
+Avramchi? [!Bu yerda Avram Linkoln haqida aytilmoqda!]//
+(Bizchi?)//
+Yana, o’limchi?//
+(Uuuuu)//
+Yo bizga baribirmi?!// 
+
+
+
+
+
+
+
+   
+`.split("//")
+
+
+
+export const OnlyWomanEng = `
+Only a woman can take away your cold hard chill//
+Break your heart and make you love her still//
+Leave you thirsty when you've had your fill//
+Only a woman can sit you high up on a throne//
+Make you feel so damn alone//
+Leave you begging baby come back home//
+And it's only till she's gone//
+Could you see that you were wrong//
+Cause the seasons change and people come and go//
+But when love is fate best hold that woman close//
+Take the hard road back and fall down at her door//
+Cause that's your woman//
+That's all I know//
+Only a woman can make you fly so high,//
+You wanna touch the sun//
+When your wings melt and you come undone//
+Catches you when you fall, she's the only one//
+She steals your heart just like a thief//
+Makes you lay roses at her feet//
+But you know to kiss the rose,//
+The thorns will make you bleed//
+And it's only till she's gone//
+Could you see that you were wrong//
+Cause the seasons change and people come and go//
+But when love is fate best hold that woman close//
+Take the hard road back and fall down at her door//
+Cause that's your woman//
+That's all I know//
+You thank God you found her//
+Yea can't live your life without her//
+And every little thing about her is all you need//
+It's all you need//
+Cause the seasons change and people come and go//
+But when love is fate best hold that woman close//
+Take the hard road back and fall down at her door//
+Cause that's your woman//
+That's all I know//
+Only a woman//
+Only a woman//
+`.split("//")
+
+
+export const OnlyWomanUzb = `
+Faqat bitta ayol sendagi og’ir sovuqlikni yo’qota oladi//
+Yuragingni ezadi va seni haligacha sevishishingga majbur etadi//
+Hamma narsaga to’yganingda, seni och qoldirib ketadi//
+Faqat bitta ayol seni baland taxtga o’tqaza oladi//
+Seni la’nati yolg’izlikda qoldiradi//
+“Iltimos, ortga qayt” deb yalintirib, tashlab ketadi//
+Hali bular u ketgunicha.//
+Endi yanglishganingni tushundingmi?//
+Chunki fasllar o’zgaradi va odamlar kelib-ketadi//
+Lekin sevgi taqdiring bo’lganida, yaxshisi u ayolni o’zingga yaqin tut//
+Og’ir bo’lsa ham, ortga qayt va eshigi oldida tiz cho’k//
+Chunki u sening ayoling.//
+Mening bilganim shu//
+Faqat bitta ayol seni baland parvoz qildira oladi//
+Va sen quyoshni ushlab ko’rging keladi//
+Qanotlaring erib, tushkunlikda qolganingda//
+Qulaganingda seni ushlab oladi; yakka-yu yagona u//
+U huddi o’g’riga o’xshab yuragingni o’g’irlaydi//
+Oyog’iga atirgullar qo’yishga majbur etadi//
+Lekin bilasanmi, u gullarni o’pganida//
+Tikanlari seni shikastlaydi//
+Hali bular u ketgunicha.//
+Endi yanglishganingni tushundingmi?//
+Chunki fasllar o’zgaradi va odamlar kelib-ketadi//
+Lekin sevgi taqdiring bo’lganida, yaxshisi u ayolni o’zingga yaqin tut//
+Og’ir bo’lsa ham, ortga qayt va eshigi oldida tiz cho’k//
+Chunki u sening ayoling//
+Mening bilganim shu//
+Uni topganing uchun Xudoga shukronalar aytasan//
+Sen hayotingni usiz yasholmaysan//
+Va u haqidagi har bir kichik narsa ham senga juda zarur//
+Senga juda zarur//
+Chunki fasllar o’zgaradi va odamlar kelib-ketadi//
+Lekin sevgi taqdiring bo’lganida, yaxshisi u ayolni o’zingga yaqin tut//
+Og’ir bo’lsa ham, ortga qayt va eshigi oldida tiz cho’k//
+Chunki u sening ayoling.//
+Mening bilganim shu//
+Faqat bitta ayol//
+Faqat bitta ayol//
+`.split("//")
+
+
+export const ComingHomeEng = `
+Sometimes I feel I'm going nowhere//
+I'm moving but I just can't my way//
+Surrounded by a million faces//
+They all say, they're my best friends//
+Take another drink to hide the sorrow//
+But come the morning, nothing's changed//
+The concrete skies are rushing by me//
+This is wrong, it's getting on//
+I don't wanna wait until it's over//
+I don't wanna wait until it's gone//
+I can't wait until tomorrow//
+'Cause I've been waiting for so long//
+So baby I'm coming home, oh oh//
+Baby I'm coming home//
+I heard the radio play your favorite song//
+Made me think of everything we used to do//
+There's so much we used to talk about//
+And now I can't, even when I say I miss you, no//
+I don't wanna wait until it's over//
+I don't wanna wait until it's gone//
+I can't wait until tomorrow, no//
+'Cause I been waiting for so long//
+So baby I'm coming home, oh oh//
+Baby I'm coming home//
+So turn around, just turn around//
+I don't wanna wait until it's over//
+I don't wanna wait until it's gone, oh no//
+I can't wait until tomorrow//
+'Cause I been waiting for so long//
+So baby I'm coming home, oh oh//
+Baby I'm coming home//
+Baby I'm coming home, oh oh//
+Baby I'm coming home...//
+`.split("//")
+
+
+export const ComingHomeUzb = `
+Ba’zan o’zimni oxiri yo’q joyga ketayotgandek sezaman//
+Men yuryapman, lekin o’z yo’limni topolmayapman.//
+Millionlab chehralar meni o’rab olgan//
+Ularning hammasi sening yaqin do’stingman, deydi//
+G’amimni yashirish uchun yana ichaman//
+Lekin yana tong otadi-yu, hech nima o’zgarmaydi//
+Tiniq osmon bo’lsa meni quvib o’tmoqda//
+Bunaqasi ketmaydi, men kech qolyapman//
+Men hammasi tugaguncha kutishni istamayman,//
+Men hammasi o’tib ketguncha kutishni istamayman,//
+Men ertagacha kutolmayman//
+Chunki ko’p vaqtdan beri kutib kelyapman//
+Shunday ekan, azizam, men uyga qaytyapman//
+Azizam, men uyga qaytyapman//
+Radiodan sening sevimli qo’shig’ingni eshitdim//
+U meni biz ilgari qiladigan ishlar haqida o’ylatib qo’ydi//
+Biz ilgari ko’p narsalar haqida gaplashardik//
+Lekin endi ular yo’q, hatto seni sog’indim desam ham, yo’q//
+Men hammasi tugaguncha kutishni istamayman,//
+Men hammasi o’tib ketguncha kutishni istamayman,//
+Men ertagacha kutolmayman, yo’q//
+Chunki ko’p vaqtdan beri kutib kelyapman//
+Shunday ekan, azizam, men uyga qaytyapman//
+Azizam, men uyga qaytyapman//
+Endi, ortingga qayt, faqat ortingga qayt//
+Men hammasi tugaguncha kutishni istamayman,//
+Men hammasi o’tib ketguncha kutishni istamayman,//
+Men ertagacha kutolmayman//
+Chunki ko’p vaqtdan beri kutib kelyapman//
+Shunday ekan, azizam, men uyga qaytyapman//
+Azizam, men uyga qaytyapman//
+Azizam, men uyga qaytyapman//
+Azizam, men uyga qaytyapman//
+`.split("//")
+
+
+export const BillieEng = `
+She was more like a beauty queen from a movie scene//
+I said, don't mind//
+But what do you mean I am the one//
+Who will dance on the floor in the round//
+She said I am the one who will dance on the floor in the round//
+She told me her name was Billie Jean//
+As she caused a scene//
+Then every head turned with eyes that dreamed of being the one//
+Who will dance on the floor in the round//
+People always told me be careful of what you do//
+And don't go around breaking young girls' hearts//
+And mother always told me be careful of who you love//
+And be careful of what you do//
+'Cause the lie becomes the truth//
+Billie Jean is not my lover//
+She's just a girl who claims that I am the one//
+But the kid is not my son//
+She says I am the one, but the kid is not my son//
+For forty days and forty nights the law was on her side//
+But who can stand when she's in demand her schemes and plans//
+'Cause we danced on the floor in the round//
+So take my strong advice, just remember to always think twice//
+(Do think twice)//
+Do think twice//
+Hooo//
+She told my baby we’d danced ‘til three then she looked at me//
+Then showed a photo, my baby cried, his eyes were like mine (oh, no!)//
+Coz we dance on the floor, in the round, baby//
+People always told me be careful of what you do//
+And don't go around breaking young girls' hearts//
+She came and stood right by me then the smell of sweet perfume//
+This happened much too soon she called me to her room//
+Billie Jean is not my lover//
+She's just a girl who claims that I am the one//
+But the kid is not my son//
+Billie Jean is not my lover//
+She's just a girl who claims that I am the one//
+But the kid is not my son//
+She says I am the one//
+But the kid is not my son//
+She says I am the one//
+But the kid is not my son//
+Billie Jean is not my lover//
+She's just a girl who claims that I am the one//
+(You know what you did to me, babe)//
+But the kid is not my son//
+She says I am the one//
+But the kid is not my son//
+She says I am the one//
+You know what you did//
+She says he is my son//
+Breaking my heart, babe//
+She says I am the one//
+Billie Jean is not my lover//
+`.split("//")
+
+
+export const BilleUzb = `
+U (qiz) ko’proq filmlardagi go’zallar malikasiga o’xshardi//
+Men aytdim: Hechqisi yo’q,//
+Lekin nima demoqchisan meni //
+hammaning ko’z o’ngida raqs tushadigan yagona odam, deb?//
+U aytdiki, men hamma ko’z o’ngida raqs tushadigan yagona odamman.//
+U menga ismini Billi Jin ekanligini aytdi//
+U raqsga tushishni boshlaganida,//
+Hamma ko’zlar unga o’girilib qaradi, hammaning oldida//
+raqs tushadigan yagona odam bo’lish istagida…//
+Menga doimo aytishardi: qilayotgan ishingdan ehtiyot bo’l,//
+va qizlarning yuragini o’g’irlashni bas qil//
+Onam har doim aytardi: sevayotganingda ehtiyot bo’l//
+va qilayotgan ishingdan ehtiyot bo’l//
+Chunki baribir, yolg’on haqiqatga aylanadi…//
+Billi Jin mening sevgilim emas,//
+U faqat meni yagona deb biladi//
+Lekin bu bola mening o’g’lim emas//
+U meni yagona, deb aytadi; lekin bu bola mening o’g’lim emas!//
+Qirq kecha-yu qirq kunduz qonun u tarafda edi://
+Kim ham unga ishonmasdi? Shunday beozor! Lekin uning o’zi rejalari bor//
+Chunki biz hammaning ko’z o’ngida raqsga tushdik…//
+Shuning uchun, maslahatim – doimo ikki marta o’ylang//
+(Ikki marta o’ylang!)//
+Ikki marta o’ylang!//
+Huu!//
+U mening bolamga biz kechki uchgacha raqsga tushganimizni aytibdi; u menga qaradi//
+U menga bitta rasm ko’rsatdi – bolam yig’layotgandi – ko’zlari xuddi menikidek edi (oo yo’q)//
+Chunki biz hammaning ko’z oldida raqsga tushgandik!//
+Menga doimo aytishardi: qilayotgan ishingdan ehtiyot bo’l,//
+va qizlarning yuragini o’g’irlashni bas qil//
+Lekin uning o’zi yonimga kelib turdi, keyin atirining shirin hidini sezdim//
+Bu juda tez sodir bo’ldi, u meni o’z xonasiga chaqirdi!//
+Billi Jin mening sevgilim emas,//
+U faqat meni yagona deb biladi//
+Lekin bu bola mening o’g’lim emas//
+Billi Jin mening sevgilim emas,//
+U faqat meni yagona deb biladi//
+Lekin bu bola mening o’g’lim emas//
+U meni yagona deb biladi//
+Lekin bu bola mening o’g’lim emas//
+U meni yagona deb aytadi//
+Lekin bu bola mening o’g’lim emas//
+Billi Jin mening sevgilim emas,//
+U faqat meni yagona deb biladi//
+(Nimalar qilib qo’yganingni bilasanmi, qizaloq?)//
+Lekin bu bola mening o’g’lim emas//
+U meni yagona deb aytadi//
+Lekin bu bola mening o’g’lim emas//
+U meni yagona, deb aytadi//
+Nima qilib qo’yganingni bilasanmi?//
+U sening o’g’ling, deb aytadi//
+Yuragimni parchalab, qizaloq!//
+U meni yagona deb aytadi//
+Billi Jin mening sevgilim emas!//
+
+`.split("//")
+
+
+export const EscapeEng = `
+You can run, you can hide//
+But you can't escape my love//
+Here's how it goes,//
+You and me, up and down, but maybe this time//
+We'll get right, worth a fight//
+Cause love is something you can't shake…//
+When it breaks//
+All it takes is some trying//
+If you feel like leaving//
+I'm not gonna beg you to stay//
+Cause soon you'll be finding//
+You can run, you can hide//
+But you can't escape my love//
+You can run, you can hide//
+But you can't escape my love//
+So if you go//
+You should know//
+It's hard to just forget the past so fast//
+It was good, it was bad but it was real//
+And that's all you have in the end our love matters//
+If you feel like leaving//
+I'm not gonna beg you to stay//
+Cause soon you'll be finding//
+You can run, you can hide//
+But you can't escape my love//
+You can run, you can hide//
+But you can't escape my love//
+You can run, you can hide//
+But you can't escape my love//
+You can run, you can hide//
+But you can't escape my love//
+Here's how it goes//
+All it takes is some trying//
+If you feel like leaving//
+I'm not gonna beg you to stay//
+Cause soon you'll be finding (you'll be finding)//
+You can run, you can hide//
+But you can't escape my love//
+If you feel like leaving//
+I'm not gonna beg you to stay//
+Cause soon you'll be finding//
+You can run you can hide//
+But you can't escape my love//
+(You can run)//
+You can run, you can hide//
+But you can't escape my love//
+`.split("//")
+
+export const EscapeUzb = `
+Qochishing mumkin, yashirinishing mumkin//
+Lekin mening sevgimdan qocholmaysan//
+Mana qanaqa bo’ladi://
+Sen va men, ko’tarilishlar, qulashlar; lekin bu safar, balki//
+Biz to’g’ri yo’ldan ketarmiz; bu kurashishga arziydi//
+Chunki sevgi bu shunday narsaki, undan qutulolmaysan//
+U singan payti//
+Qiladigan ishing – birozgina harakat//
+Agar ketging kelib qolsa//
+Men senga qol, deb yalinmayman//
+Chunki tez orada tushunib yetasan//
+Qochishing mumkin, yashirinishing mumkin//
+Lekin mening sevgimdan qocholmaysan//
+Qochishing mumkin, yashirinishing mumkin//
+Lekin mening sevgimdan qocholmaysan//
+Shunday ekan, agar ketsang//
+Bilib qo’y//
+O’tmishni tez unutish juda qiyin//
+Yaxshi paytlar ham, yomon paytlar ham bo’ldi, lekin bular haqiqiy edi//
+Va senda bori ham shu, va nihoyat bizning sevgimiz muhim bo’ladi//
+Agar ketging kelib qolsa//
+Men senga qol, deb yalinmayman//
+Chunki tez orada tushunib yetasan//
+Qochishing mumkin, yashirinishing mumkin//
+Lekin mening sevgimdan qocholmaysan//
+Qochishing mumkin, yashirinishing mumkin//
+Lekin mening sevgimdan qocholmaysan//
+Qochishing mumkin, yashirinishing mumkin//
+Lekin mening sevgimdan qocholmaysan//
+Qochishing mumkin, yashirinishing mumkin//
+Lekin mening sevgimdan qocholmaysan//
+Mana qanaqa bo’ladi://
+Qiladigan ishing – birozgina harakat//
+Agar ketging kelib qolsa//
+Men senga qol, deb yalinmayman//
+Chunki tez orada tushunib yetasan (tushunib yetasan)//
+Qochishing mumkin, yashirinishing mumkin//
+Lekin mening sevgimdan qocholmaysan//
+Agar ketging kelib qolsa//
+Men senga qol, deb yalinmayman//
+Chunki tez orada tushunib yetasan//
+Qochishing mumkin, yashirinishing mumkin//
+Lekin mening sevgimdan qocholmaysan//
+(Qochishing mumkin)//
+Qochishing mumkin, yashirinishing mumkin//
+Lekin mening sevgimdan qocholmaysan//
 `.split("//")

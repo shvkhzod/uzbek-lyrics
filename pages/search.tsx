@@ -25,14 +25,24 @@ const Search = () => {
              </div>
             <h2 className="searchTrend">Top</h2>
             <div className="searchTrendList">
-             <Link href={"/lyrics"}>
-            <SongShow songName="Stan" songArtist="Eminem" songImg="/img/em.png"/>
-            </Link>
-            <SongShow songName="Desert Rose" songArtist="Sting" songImg="/img/sting.png"/>
-            <SongShow songName="Perfect" songArtist="Ed Sheeran" songImg="/img/ed2.png"/>
-            <SongShow songName="Blinding Lights" songArtist="The Weeknd" songImg="/img/bl.png"/>
-            <SongShow songName="In The End" songArtist="Linkin Park" songImg="/img/linkinpark.png"/>
-            <SongShow songName="Just Like You" songArtist="NF" songImg="/img/likeyou.png"/>
+            <div onClick={()=> router.push("/lyrics", {query: {name: "earthSong"}})}>
+           <SongShow songName="Earth Song" songArtist="Michael Jackson" songImg="/img/earthsong.png"/>
+           </div>
+           <div onClick={()=> router.push("/lyrics",  {query: {name: "stan"}})}>
+           <SongShow songName="Stan" songArtist="Eminem" songImg="/img/em.png"/>
+           </div>
+           <div onClick={()=> router.push("/lyrics", {query: {name: "onlyWoman"}})}>
+           <SongShow songName="Only A Woman" songArtist="Enrique Iglesias" songImg="/img/onlywoman.png"/>
+           </div>
+            <div onClick={()=> router.push("/lyrics", {query: {name: "comingHome"}})}>
+            <SongShow songName="Coming Home" songArtist="Enrique Iglesias" songImg="/img/cominghome.png"/>
+            </div>
+           <div onClick={()=> router.push("/lyrics", {query: {name: "billieJean"}})}>
+           <SongShow songName="Billie Jean" songArtist="Michael Jackson" songImg="/img/billiejean.png"/>
+           </div>
+           <div onClick={()=> router.push("/lyrics", {query: {name: "esape"}})}>
+           <SongShow songName="Escape" songArtist="Enrique Iglesias" songImg="/img/escape.png"/>
+           </div>
             </div>
            </div>
         </SearchWrap>
